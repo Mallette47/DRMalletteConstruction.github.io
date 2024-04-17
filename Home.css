@@ -333,6 +333,7 @@
 
 .u-section-4 .u-text-4 {
   width: 231px;
+  font-size: 1rem;
   margin: 31px auto 0;
 }
 
@@ -400,10 +401,6 @@
 
   .u-section-4 .u-layout-cell-2 {
     min-height: 581px;
-  }
-
-  .u-section-4 .u-text-4 {
-    font-size: 1rem;
   }
 
   .u-section-4 .u-text-8 {
